@@ -45,6 +45,7 @@ server.post('/auth/login', (req, res) => {
     res.status(200).json({ access_token })
 })
 
+// Authentication & Authorization needs, uncomment them to use
 // server.use(/^(?!\/auth).*$/, (req, res, next) => {
 //     if (req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer') {
 //         const status = 401
