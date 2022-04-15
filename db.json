@@ -1,56 +1,46 @@
 {
-    "todos":[
-        {
-            "id": "0",
-            "title": "Learn Devops",
-            "description": "Learn how to use nginx and docker",
-            "priority": "High",
-            "note": "importants to deploy apps"
-        },
-        {
-            "id": "1",
-            "title": "Learn Backend",
-            "description": "Learn how to create rest api and micro service",
-            "priority": "Medium",
-            "note": "need to implement micro service"
-        },
-        {
-            "id": "2",
-            "title": "Learn Frontend",
-            "description": "Learn how to use frontend library",
-            "priority": "Medium",
-            "note": "performance is no longer an option"
-        },
-        {
-            "id": "3",
-            "title": "Learn UI/UX",
-            "description": "Learn how to design web pages",
-            "priority": "Medium",
-            "note": "friendly design make user stay"
-        },
-        {
-            "id": "4",
-            "title": "Learn IT Security",
-            "description": "Learn how to protect confidential data",
-            "priority": "High",
-            "note": "lack of data can put users in danger"
-        }
-    ],
-    "users": [
-        {
-            "id": "0",
-            "name": "John Doe",
-            "email": "johndoe@email.com"
-        },
-        {
-            "id": "1",
-            "name": "Karen",
-            "email": "karen@email.com"
-        },
-        {
-            "id": "2",
-            "name": "Naruto",
-            "email": "naruto@konoha.go.kn"
-        }
-    ]
+  "todos": [
+    {
+      "id": "0",
+      "title": "Learn Devops",
+      "description": "Learn how to use nginx and docker",
+      "priority": "High",
+      "note": "importants to deploy apps"
+    },
+    {
+      "id": "1",
+      "title": "Learn Backend",
+      "description": "Learn how to create rest api and micro service",
+      "priority": "Medium",
+      "note": "need to implement micro service"
+    },
+    {
+      "id": "2",
+      "title": "Learn Frontend",
+      "description": "Learn how to use frontend library",
+      "priority": "Medium",
+      "note": "performance is no longer an option"
+    },
+    {
+      "id": "3",
+      "title": "Learn UI/UX",
+      "description": "Learn how to design web pages",
+      "priority": "Medium",
+      "note": "friendly design make user stay"
+    },
+    {
+      "id": "4",
+      "title": "Learn IT Security",
+      "description": "Learn how to protect confidential data",
+      "priority": "High",
+      "note": "lack of data can put users in danger"
+    },
+    {
+      "title": "asdasd",
+      "description": "asdasdasd",
+      "priority": "High",
+      "note": "asdasda",
+      "id": "55uAKT2"
+    }
+  ]
 }

@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": "0",
+            "name": "John Doe",
+            "email": "johndoe@email.com"
+        },
+        {
+            "id": "1",
+            "name": "Karen",
+            "email": "karen@email.com"
+        },
+        {
+            "id": "2",
+            "name": "Naruto",
+            "email": "naruto@konoha.go.kn"
+        }
+    ]
+}
